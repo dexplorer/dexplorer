@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Core Public Repos
+
+GitHub's limit of 6 pinned repos is far too low - these are what I consider my core open source public repos:
+
+<!-- REPOS_START -->
+
+### Knowledge
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dexplorer&repo=df-data-profile&theme=ambient_gradient&description_lines_count=3)](https://github.com/dexplorer/df-data-profile)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dexplorer&repo=df-data-lineage&theme=ambient_gradient&description_lines_count=3)](https://github.com/dexplorer/df-data-lineage)

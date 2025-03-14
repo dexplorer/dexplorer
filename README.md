@@ -24,4 +24,4 @@ GitHub's limit of 6 pinned repos is far too low - these are what I consider my c
 ### Knowledge
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dexplorer&repo=df-data-profile&theme=ambient_gradient&description_lines_count=3)](https://github.com/dexplorer/df-data-profile)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dexplorer&repo=df-data-lineage&theme=ambient_gradient&description_lines_count=3)](https://github.com/dexplorer/df-data-lineage)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dexplorer&repo=df-data-lineage&description_lines_count=3)](https://github.com/dexplorer/df-data-lineage)

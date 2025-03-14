@@ -17,13 +17,10 @@ Here are some ideas to get you started:
 
 
 # 💫About Me :
-I am data platform leader with 19 years of experience in data engineering, reporting, analytics, visualisation, machine learning and artificial intelligence.
+I am a data platform leader with 19 years of experience in data engineering, reporting, analytics, visualisation, machine learning and artificial intelligence.
 I am currently working on a data management micro service framework in order to simplify data processing and governance at the enterprise level.
 I am looking to collaborate on applying ML, AI and GenAI techniques in data management.
 I am currently learning architecture patterns in AWS and Azure cloud platforms.
-
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/rajakumaranarivumani) 
 
 ## Core Public Repos
 

@@ -30,7 +30,7 @@ GitHub's limit of 6 pinned repos is far too low - these are what I consider my c
 
 ### Data Architecture
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dexplorer&repo=df-data-ingestion&description_lines_count=3)](https://github.com/dexplorer/df-data-ingestion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dexplorer&repo=df-data-ingestion&description_lines_coun=3)](https://github.com/dexplorer/df-data-ingestion)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dexplorer&repo=df-data-distribution&description_lines_count=3)](https://github.com/dexplorer/df-data-distribution)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dexplorer&repo=df-app-calendar&description_lines_count=3)](https://github.com/dexplorer/df-app-calendar)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dexplorer&repo=df-metadata&description_lines_count=3)](https://github.com/dexplorer/df-metadata)
